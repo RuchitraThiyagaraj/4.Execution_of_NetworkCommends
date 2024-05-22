@@ -25,10 +25,7 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-
-
-DEVELOPED BY:N.NAVYA SREE        
-REG.NO:212223040138          
+       
 
 ## PROGRAM
 ## PING COMMAND
